@@ -1,0 +1,16 @@
+{
+  "name": "hubplanner",
+  "version": "1.0.0",
+  "description": "cypress automation, hub planner",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "author": "Anushree Jaiswal",
+  "license": "ISC"
+}

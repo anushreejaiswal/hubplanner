@@ -1,0 +1,12 @@
+{
+  "signupPageTitle": "HUB Planner | Sign Up",
+  "email": "[name='email']",
+  "password": "[name='password']",
+  "checkbox" : "[type='checkbox']",
+  "submitButton" : "[type='submit']",
+  "welcomePageTitle": "Hub Planner | Welcome",
+  "firstname" : "[name='firstName']",
+  "lastname" : "[name='lastName']",
+  "companyname" : "[name='companyName']",
+  "subdomain": "[name='subDomain']"
+}
